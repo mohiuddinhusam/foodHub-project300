@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "mohi_mongodb",
+    "MONGO_PASSWORD": "SUfHFP7N7o8zT2ON",
+    "MONGO_DATABASE": "foodApp",
+    "SENDGRID_KEY": "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"
+  }
+}
